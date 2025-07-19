@@ -8,7 +8,7 @@ This app allows users to upload multiple PDFs, merge them in-browser, and downlo
 
 ## 🚀 Live Demo
 
-👉 [Try it here on Streamlit Cloud](https://yourpdfmerger.streamlit.app)
+👉 [Try it here on Streamlit Cloud](https://pdfmergerwebapp.streamlit.app/)
 
 ---
 
